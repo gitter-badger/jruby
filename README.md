@@ -1,5 +1,7 @@
 # JRuby -  A Java implementation of the Ruby language
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thomaswue/jruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Master: [![Build Status](https://travis-ci.org/jruby/jruby.png?branch=master)](https://travis-ci.org/jruby/jruby) 
 1.7 branch: [![Build Status](https://travis-ci.org/jruby/jruby.png?branch=jruby-1_7)](https://travis-ci.org/jruby/jruby/branches)
 
